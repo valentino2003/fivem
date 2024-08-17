@@ -1,0 +1,30 @@
+{
+    "NeutralZone": {
+        "spawnpoint": [686.42, 578.11, 130.46],
+        "ped_model": "a_m_y_skater_01",
+        "blip": {
+            "sprite": 1,
+            "color": 40,
+            "scale": 1.5,
+            "name": "Spawnzone"
+        }
+    },
+    "countdown": {
+        "Minutes": 1,
+        "Seconds": 0,
+        "MinPlayersToStart": 2,
+        "PreMinutes": 0,
+        "PreSeconds": 30
+    },
+    "teams": {
+        "slots": 10,
+        "dropWeapons": true,
+        "health": 1000,
+        "healthLimit": 0.9999,
+        "armor": 100
+    },
+
+    "admins" : [
+        {"name": "Username", "identifier": "fivem:123456"}
+    ]
+}
